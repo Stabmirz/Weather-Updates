@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "6056a4ed2f1454c2d606",
+    "revision": "f9f4af5de1f804bce168",
     "url": "/Weather-Updates/static/css/main.26a29272.chunk.css"
   },
   {
-    "revision": "6056a4ed2f1454c2d606",
-    "url": "/Weather-Updates/static/js/main.75a248f6.chunk.js"
+    "revision": "f9f4af5de1f804bce168",
+    "url": "/Weather-Updates/static/js/main.71fe5fa3.chunk.js"
   },
   {
     "revision": "4f7fc858a93f2f2e19dd",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/Weather-Updates/static/media/weather-background.f5d531f8.jpg"
   },
   {
-    "revision": "d40f11099268ff5b4004329366438b59",
+    "revision": "c8b468f7accc7a22b6c21d8945940d3f",
     "url": "/Weather-Updates/index.html"
   }
 ];
